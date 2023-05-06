@@ -1,0 +1,18 @@
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\bin\Debug\net7.0\Eisenhower Matrix2.exe
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\bin\Debug\net7.0\Eisenhower Matrix2.deps.json
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\bin\Debug\net7.0\Eisenhower Matrix2.runtimeconfig.json
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\bin\Debug\net7.0\Eisenhower Matrix2.dll
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\bin\Debug\net7.0\Eisenhower Matrix2.pdb
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.csproj.AssemblyReference.cache
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.AssemblyInfoInputs.cache
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.AssemblyInfo.cs
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.csproj.CoreCompileInputs.cache
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.dll
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\refint\Eisenhower Matrix2.dll
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.pdb
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.genruntimeconfig.cache
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\ref\Eisenhower Matrix2.dll
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\bin\Debug\net7.0\Spectre.Console.dll
+C:\Users\PGTB84\RiderProjects\Eisenhower Matrix2\Eisenhower Matrix2\obj\Debug\net7.0\Eisenhower Matrix2.csproj.CopyComplete

@@ -1,0 +1,6 @@
+przelew,important,urgent
+todolist,important,not urgent
+jedzenie,not important,not urgent
+picie,not important,urgent
+papieros,important,urgent
+codecool,important,urgent
